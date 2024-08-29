@@ -1,0 +1,4 @@
+message = "ScreenBeam"
+
+print(message)
+
